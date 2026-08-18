@@ -25,7 +25,7 @@
         "name": "Prime Video",
         "category": "STREAMING",
         "price": 19.90,
-        "logo": "https://gpng.net/wp-content/uploads/Amazon-Prime-Video-Logo-PNG.png"
+        "logo": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTBaI4EKz7viWYMgVH017yobPJ0vX0Op3VAqJPVq4nUWwNa5KUy"
     },
     {
         "id": "xbox-game-pass",
@@ -39,7 +39,7 @@
         "name": "PlayStation Plus",
         "category": "GAMING",
         "price": 34.90,
-        "logo": "https://sm.ign.com/ign_br/cover/p/playstatio/playstation-plus_r7vn.jpg"
+        "logo": "https://image.api.playstation.com/vulcan/ap/rnd/202204/0810/803Pm8uJoZ2Cl9fJPvTaXHqG.png"
     },
     {
         "id": "chatgpt-plus",
@@ -74,7 +74,7 @@
         "name": "Max",
         "category": "STREAMING",
         "price": 29.90,
-        "logo": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/01/max-novo-streaming.png?w=1200&h=1200&crop=1"
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLCvyJOLstaeUzdABBUxRe91cejhtPF2k9rJx-4riZr1CjOsyXJxzNOTY&s=10"
     },
     {
         "id": "apple-tv-plus",
@@ -95,7 +95,7 @@
         "name": "Globoplay",
         "category": "STREAMING",
         "price": 24.90,
-        "logo": "https://static.wikia.nocookie.net/globo/images/7/75/Logo_Globoplay.jpg/revision/latest/thumbnail/width/360/height/450?cb=20190816233806&path-prefix=pt-br"
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlM9d2SpEEBaiFBTXwSROmih2H-Z8C2PnlUj5tXi-m6GIsTapPJfpgzSs&s=10"
     },
     {
         "id": "crunchyroll",
