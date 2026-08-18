@@ -1,0 +1,107 @@
+[
+    {
+        "id": "netflix",
+        "name": "Netflix",
+        "category": "STREAMING",
+        "price": 20.90,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/960px-Netflix_2015_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+        "id": "spotify",
+        "name": "Spotify",
+        "category": "MUSIC",
+        "price": 23.90,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Antu_spotify.svg/960px-Antu_spotify.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+        "id": "disney-plus",
+        "name": "Disney+",
+        "category": "STREAMING",
+        "price": 29.90,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/960px-Disney%2B_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+        "id": "prime-video",
+        "name": "Prime Video",
+        "category": "STREAMING",
+        "price": 19.90,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Amazon_Prime_Video_logo_%282024%29.svg/960px-Amazon_Prime_Video_logo_%282024%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
+    },
+    {
+        "id": "xbox-game-pass",
+        "name": "Xbox Game Pass",
+        "category": "GAMING",
+        "price": 43.90,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Xbox_Game_Pass_new_logo_-_colored_version.svg/960px-Xbox_Game_Pass_new_logo_-_colored_version.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+        "id": "playstation-plus",
+        "name": "PlayStation Plus",
+        "category": "GAMING",
+        "price": 34.90,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/PlayStation_Plus_second_logo_and_wordmark.svg/960px-PlayStation_Plus_second_logo_and_wordmark.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+        "id": "chatgpt-plus",
+        "name": "ChatGPT Plus",
+        "category": "AI_PRODUCTIVITY",
+        "price": 99.00,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/ChatGPT_logo_Square.svg/960px-ChatGPT_logo_Square.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+        "id": "canva-pro",
+        "name": "Canva Pro",
+        "category": "AI_PRODUCTIVITY",
+        "price": 34.90,
+        "logo": "https://5.imimg.com/data5/SELLER/Default/2025/1/483342275/ZM/IJ/RO/233734855/canva-pro-lifetime-access-selar-co-65b6705f9cd19-jpeg.jpeg"
+    },
+    {
+        "id": "google-one",
+        "name": "Google One",
+        "category": "CLOUD_STORAGE",
+        "price": 9.99,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Google_One_logo.svg/960px-Google_One_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+        "id": "duolingo-super",
+        "name": "Duolingo Super",
+        "category": "EDUCATION",
+        "price": 29.90,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Super_Duolingo_logo.svg/960px-Super_Duolingo_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+        "id": "max",
+        "name": "Max",
+        "category": "STREAMING",
+        "price": 29.90,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Max_logo.svg/960px-Max_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+        "id": "apple-tv-plus",
+        "name": "Apple TV+",
+        "category": "STREAMING",
+        "price": 29.90,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Apple_TV_Plus_Logo.svg/960px-Apple_TV_Plus_Logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+        "id": "paramount-plus",
+        "name": "Paramount+",
+        "category": "STREAMING",
+        "price": 18.90,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Paramount_Plus.svg/960px-Paramount_Plus.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+        "id": "globoplay",
+        "name": "Globoplay",
+        "category": "STREAMING",
+        "price": 24.90,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Globoplay_2018.svg/960px-Globoplay_2018.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    {
+        "id": "crunchyroll",
+        "name": "Crunchyroll",
+        "category": "STREAMING",
+        "price": 19.90,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Crunchyroll_2024_stacked.svg/960px-Crunchyroll_2024_stacked.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+]
