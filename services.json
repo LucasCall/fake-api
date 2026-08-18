@@ -4,21 +4,21 @@
         "name": "Netflix",
         "category": "STREAMING",
         "price": 20.90,
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Netflix_logogo.png/960px-Netflix_logogo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAV9-F1Guw8-efTIVreSG_SJRFx-PUasEyf6WkItDSVTREGQ7YFUA19WP4&s=10"
     },
     {
         "id": "spotify",
         "name": "Spotify",
         "category": "MUSIC",
         "price": 23.90,
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Spotify_2.png/960px-Spotify_2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        "logo": "https://m.media-amazon.com/images/I/51rttY7a+9L.png"
     },
     {
         "id": "disney-plus",
         "name": "Disney+",
         "category": "STREAMING",
         "price": 29.90,
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Disney_plus_icon.png/960px-Disney_plus_icon.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        "logo": "https://i.pinimg.com/736x/1b/68/74/1b6874f21450d6fee2e12480b706e18b.jpg"
     },
     {
         "id": "prime-video",
